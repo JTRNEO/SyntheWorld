@@ -1,14 +1,28 @@
 # SyntheWorld
-### Overview
-OpenEarthMap is a benchmark dataset for global high-resolution land cover mapping. OpenEarthMap consists of 5000 aerial and satellite images with manually annotated 8-class land cover labels and 2.2 million segments at a 0.25-0.5m ground sampling distance, covering 97 regions from 44 countries across 6 continents. OpenEarthMap fosters research including but not limited to semantic segmentation and domain adaptation. Land cover mapping models trained on OpenEarthMap generalize worldwide and can be used as off-the-shelf models in a variety of applications. Project Page: [https://open-earth-map.org/](https://open-earth-map.org/)
+Official repository of "SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection"  
+[paper, supp]
+
+
+## Updates
+**[2023/08/31]**We are happy to announce that SyntheWorld was accepted at WACV2024. Dataset will be released soon!
+
+
+## Abstract
+Synthetic datasets, recognized for their cost effectiveness, play a pivotal role in advancing computer vision tasks and techniques. However, when it comes to remote sensing image processing, the creation of synthetic datasets becomes challenging due to the demand for larger-scale and more diverse 3D models. This complexity is compounded by the difficulties associated with real remote sensing datasets, including limited data acquisition and high annotation costs, which amplifies the need for high-quality synthetic alternatives. To address this, we present SyntheWorld, a synthetic dataset unparalleled in quality, diversity, and scale. It includes 40,000 images with submeter-level pixels and fine-grained land cover annotations of eight categories, and it also provides 40,000 pairs of bitemporal image pairs with building change annotations for building change detection task. We conduct experiments on multiple benchmark remote sensing datasets to verify the effectiveness of SyntheWorld and to investigate the conditions under which our synthetic data yield advantages.
+
+<p align="center"> <img src="figs/figi_result_low.png" width="75%"> </p>
+
+<p align="center"> <img src="figs/figii_result_night.png" width="74.5%"> </p>
+
+<p align="center"> <img src="figs/figiii_result_normal.png" width="88%"> </p>
 
 ### Reference
 ```
-@inproceedings{xia_2023_openearthmap,
-    title = {OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping},
-    author = {Junshi Xia and Naoto Yokoya and Bruno Adriano and Clifford Broni-Bediako},
+@inproceedings{song_2024_syntheworld,
+    title = {SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection},
+    author = {Jian Song and Hongruixuan Chen and Naoto Yokoya},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month = {January},
-    year = {2023}
+    year = {2024}
 }
 ```
