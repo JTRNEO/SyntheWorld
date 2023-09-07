@@ -4,7 +4,7 @@ Official repository of "SyntheWorld: A Large-Scale Synthetic Dataset for Land Co
 
 
 ## Updates
-**[2023/08/31]**We are happy to announce that SyntheWorld was accepted at WACV2024. Dataset will be released soon!
+**[2023/08/31]** We are happy to announce that SyntheWorld was accepted at WACV2024. Dataset will be released soon!
 
 
 ## Abstract
