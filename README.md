@@ -5,6 +5,7 @@ Official repository of "SyntheWorld: A Large-Scale Synthetic Dataset for Land Co
 
 ## Updates
 **[2023/09/15]** The dataset is available[[google drive](https://drive.google.com/drive/folders/17WjcYrSHO51dSVgpG6X3u_putnrg5j4y?usp=sharing)]! 
+
 **[2023/08/31]** We are happy to announce that SyntheWorld was accepted at WACV2024.
 
 
