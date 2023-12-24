@@ -22,12 +22,12 @@ Synthetic datasets, recognized for their cost effectiveness, play a pivotal role
 
 ### Reference
 ```
-@misc{song2023syntheworld,
-      title={SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection}, 
-      author={Jian Song and Hongruixuan Chen and Naoto Yokoya},
-      year={2023},
-      eprint={2309.01907},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Song_2024_WACV,
+    author    = {Song, Jian and Chen, Hongruixuan and Yokoya, Naoto},
+    title     = {SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {8287-8296}
 }
 ```
