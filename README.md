@@ -1,6 +1,6 @@
 # SyntheWorld
 Official repository of "SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection"  
-[paper(https://openaccess.thecvf.com/content/WACV2024/papers/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.pdf), supp(https://openaccess.thecvf.com/content/WACV2024/supplemental/Song_SyntheWorld_A_Large-Scale_WACV_2024_supplemental.pdf)] [[arXiv](https://arxiv.org/abs/2309.01907)]
+[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.pdf), [supp](https://openaccess.thecvf.com/content/WACV2024/supplemental/Song_SyntheWorld_A_Large-Scale_WACV_2024_supplemental.pdf)] [[arXiv](https://arxiv.org/abs/2309.01907)]
 
 
 ## Updates
