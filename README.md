@@ -4,6 +4,9 @@ Official repository of "SyntheWorld: A Large-Scale Synthetic Dataset for Land Co
 
 
 ## Updates
+**[2025/01/XX]** The dataset is now also available on Hugging Face for convenient access and downloading.  
+[[Hugging Face](https://huggingface.co/datasets/JTRNEO/SyntheWorld)]
+
 **[2023/09/15]** The dataset is available now! [[Zenodo](https://zenodo.org/record/8349019)] 
 
 **[2023/08/31]** We are happy to announce that SyntheWorld was accepted at WACV2024.
